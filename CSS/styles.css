@@ -1,0 +1,98 @@
+.title {
+    background-color: #D61C4C;
+    text-align: center;
+    padding:7% 15%;
+    color:#fff;
+}
+
+.navbar-brand {
+    font-family: 'Patua One';
+    font-size: 2rem;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.brand-name,h1,h2,h3 {
+    font-family: 'Bebas Neue';
+    font-size: 10rem;
+    padding-top:5% ;
+}
+
+.slogan {
+    font-family: 'Courgette';
+    font-size: 1.7rem;
+}
+
+#delivery {
+    padding:7% 11%;
+    text-align: center;
+}
+
+p {
+    font-family: 'Patua One';
+    line-height: 2;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    font-size: large;
+}
+
+#menu {
+    background-color: #D61C4C;
+    padding: 100px;
+    text-align: center;
+}
+
+.price-col {
+    padding: 2% 2%;
+}
+
+.ourmenu {
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+#order {
+    font-family: 'Patua One';
+    padding: 5% 13%;
+    font-size: large;
+}
+
+form {
+     padding: 4% 4%;
+
+}
+
+td {
+   padding: 10px;
+}
+
+#reviews {
+    padding:4% 12%;
+    background-color: #D61C4C;
+    color: #fff;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+    line-height: 2.5;
+}
+
+footer {
+    padding: 1.5% 3%;
+    text-align:center;
+    color:dimgrey;
+}
+
+.social {
+    margin: 20px 10px;
+}
